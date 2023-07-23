@@ -1,4 +1,4 @@
-### Not to Code: Evidence From Static Code Analysis of Scientific Scripts
+### Not to Code: Evidence From Static Code Analysis of Replication Scripts
 
 Using replication files I downloaded [here](https://github.com/recite/softverse), I run some static code analysis using [lintr](https://lintr.r-lib.org/). 
 
